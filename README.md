@@ -21,7 +21,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name       = "Jayraj S.V"
         self.username   = "jaysid97"
-        self.role       = "Software Engineer"
+        self.role       = "Software developer"
         self.languages  = ["Python", "JavaScript", "TypeScript",
                            "C", "C++", "Java", "Go", "HTML", "CSS"]
         self.interests  = ["Open Source", "System Design",
