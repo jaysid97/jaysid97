@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## &#x1F468;&#x200D;&#x1F4BB; About Me
 
 ```python
 class SoftwareEngineer:
@@ -27,26 +27,26 @@ class SoftwareEngineer:
         self.interests  = ["Open Source", "System Design",
                            "AI/ML", "Web Development",
                            "Voice Tech", "Green Tech"]
-        self.currently  = "Building awesome things ðŸš€"
+        self.currently  = "Building awesome things &#x1F680;"
         self.fun_fact   = "I build AI tools, voice apps & eco-tech!"
 
     def say_hi(self):
-        print("Thanks for dropping by â€” let's build something great together!")
+        print("Thanks for dropping by &mdash; let's build something great together!")
 
 me = SoftwareEngineer()
 me.say_hi()
 ```
 
-- ðŸ”­ I'm currently working on **exciting projects** *(see below)*
-- ðŸŒ± I'm always learning and growing as an engineer
-- ðŸ’¬ Ask me about **Python, JavaScript, Go, or anything software!**
-- âš¡ Fun fact: I love turning coffee â˜• into clean, efficient code
+- &#x1F52D; I'm currently working on **exciting projects** *(see below)*
+- &#x1F331; I'm always learning and growing as an engineer
+- &#x1F4AC; Ask me about **Python, JavaScript, Go, or anything software!**
+- &#x26A1; Fun fact: I love turning coffee &#x2615; into clean, efficient code
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Tools
+## &#x1F6E0;&#xFE0F; Tech Stack & Tools
 
-### ðŸ’» Languages
+### &#x1F4BB; Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,14 +58,14 @@ me.say_hi()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### âš™ï¸ Frameworks & Libraries
+### &#x2699;&#xFE0F; Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### ðŸ—„ï¸ Databases & Cloud
+### &#x1F5C4;&#xFE0F; Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -73,7 +73,7 @@ me.say_hi()
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ðŸ§° Tools & IDEs
+### &#x1F9F0; Tools & IDEs
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -82,20 +82,20 @@ me.say_hi()
 
 ---
 
-## ðŸš€ Featured Projects
+## &#x1F680; Featured Projects
 
-| ðŸš€ Project | ðŸ“ Description | ðŸ› ï¸ Stack |
+| &#x1F680; Project | &#x1F4DD; Description | &#x1F6E0;&#xFE0F; Stack |
 |---|---|---|
-| [**lexipulse-ai**](https://github.com/jaysid97/lexipulse-ai) | AI-powered text & language intelligence platform | JavaScript Â· AI/NLP |
-| [**Ten-day-of-voice-challenges**](https://github.com/jaysid97/Ten-day-of-voice-challenges-bharat-edition) | 10-day voice challenge series â€” Bharat Edition ðŸ‡®ðŸ‡³ | TypeScript Â· Voice |
-| [**carbon-footprint-tracker**](https://github.com/jaysid97/carbon-footprint-tracker) | Track & reduce your personal carbon footprint ðŸŒ± | JavaScript Â· Green Tech |
+| [**lexipulse-ai**](https://github.com/jaysid97/lexipulse-ai) | AI-powered text & language intelligence platform | JavaScript &middot; AI/NLP |
+| [**Ten-day-of-voice-challenges**](https://github.com/jaysid97/Ten-day-of-voice-challenges-bharat-edition) | 10-day voice challenge series &mdash; Bharat Edition &#x1F1EE;&#x1F1F3; | TypeScript &middot; Voice |
+| [**carbon-footprint-tracker**](https://github.com/jaysid97/carbon-footprint-tracker) | Track & reduce your personal carbon footprint &#x1F331; | JavaScript &middot; Green Tech |
 | [**entropy-zero**](https://github.com/jaysid97/entropy-zero) | Zero-entropy data management system | JavaScript |
 | [**civic-nexus**](https://github.com/jaysid97/civic-nexus) | Civic engagement & community platform | Python |
-| [**stadium-concierge-assistant**](https://github.com/jaysid97/stadium-concierge-assistant) | AI concierge assistant for stadium experiences ðŸŸï¸ | Python Â· AI |
+| [**stadium-concierge-assistant**](https://github.com/jaysid97/stadium-concierge-assistant) | AI concierge assistant for stadium experiences &#x1F3DF;&#xFE0F; | Python &middot; AI |
 
 ---
 
-## ðŸ“Š GitHub Stats
+## &#x1F4CA; GitHub Stats
 
 <div align="center">
 
@@ -113,7 +113,7 @@ me.say_hi()
 
 ---
 
-## ðŸ† GitHub Trophies
+## &#x1F3C6; GitHub Trophies
 
 <div align="center">
 
@@ -123,7 +123,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“ˆ Contribution Graph
+## &#x1F4C8; Contribution Graph
 
 <div align="center">
 
@@ -133,11 +133,11 @@ me.say_hi()
 
 ---
 
-## ðŸ¤ Connect with Me
+## &#x1F91D; Connect with Me
 
 <div align="center">
 
-<!-- ðŸ“Œ Fill in your actual social URLs below -->
+<!-- &#x1F4CC; Fill in your actual social URLs below -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaysid97)
@@ -150,9 +150,8 @@ me.say_hi()
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." â€“ Cory House*
+*"Code is like humor. When you have to explain it, it's bad." &ndash; Cory House*
 
-â­ **Feel free to star any repos you find interesting!** â­
+&#x2B50; **Feel free to star any repos you find interesting!** &#x2B50;
 
 </div>
-
